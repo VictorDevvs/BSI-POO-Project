@@ -1,0 +1,17 @@
+{
+  "name": "poo-typescript",
+  "version": "1.0.0",
+  "description": "Projeto acadêmico voltado para estudos do paradigma orientado a objetos utilizando node e a linguagem typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "poo",
+    "sistemas de informação",
+    "nodejs"
+  ],
+  "author": "Victor Santos",
+  "license": "ISC"
+}
